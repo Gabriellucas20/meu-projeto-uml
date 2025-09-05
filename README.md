@@ -1,7 +1,7 @@
-# [Sistema_De_Uma_Escola_De_Idomas]
+# Sistema_De_Uma_Escola_De_Idomas
 
 ## Descrição do Projeto
-Este projeto foi desenvolvido como parte da disciplina de Fábrica de Software na UNIPÊ.
+Este projeto foi desenvolvido como parte da disciplina de **Fábrica de Software** na UNIPÊ.
 
 ## Tecnologias Utilizadas
 * **BRModelo**: O projeto utiliza o software BRModelo (`brmodelo.jar`).
